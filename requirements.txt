@@ -1,0 +1,4 @@
+- pandas
+- empyrical-reloaded
+- pytest
+- theta-data
