@@ -1,4 +1,4 @@
-```markdown
+
 # IBKR 📈
 
 Herramienta en Python para **trading algorítmico** y **consumo de datos financieros en tiempo real** a través de la API de **Interactive Brokers (IBKR)**.
@@ -31,7 +31,7 @@ IBKR/
 ┣ packages/         ← utilidades y módulos adicionales
 ┗ test/             ← pruebas unitarias / de integración
 
-````
+```
 
 ### Carpetas clave
 
@@ -48,7 +48,7 @@ IBKR/
    ```bash
    git clone https://github.com/Alvaro-Villa/IBKR.git
    cd IBKR
-````
+```
 
 2. **Crear entorno virtual (recomendado)**
 
